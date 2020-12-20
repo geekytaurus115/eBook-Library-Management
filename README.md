@@ -1,2 +1,2 @@
-# eBook_Library
+# eBook Library Management
 Library Management System
